@@ -24,7 +24,7 @@
 ```javascript
 const lance = {
     pronouns: "he/him",
-    location: "Butuan, Philippines 🇵🇭",
+    location: "General Santos City, Philippines 🇵🇭",
     role: "AI Engineer & Full-Stack Developer",
     education: "Computer Engineering (3rd Year)",
     
@@ -39,7 +39,7 @@ const lance = {
     collaborating: "Cutting-edge AI/ML Projects",
     learning: "Advanced AI Engineering & System Design",
     
-    funFact: "I turn coffee into AI-powered solutions ☕➡️🤖"
+    funFact: "I turn coffee into AI-powered solutions ☕➡️🤖(ofcurz we love coffee)"
 };
 ```
 
@@ -161,7 +161,7 @@ const lance = {
 | 🔧 **Frontend Developer** | SmartBuild Solutions | Aug 2025 | Built responsive web apps with HTML, CSS, JS |
 | ✍️ **Copywriter** | BrandVoice Media | Jan-Apr 2025 | Boosted campaign performance with engaging copy |
 | 🎨 **Web Designer** | Algoworks | Sep-Dec 2024 | Enhanced UX/UI with modern design principles |
-| 👥 **Team Supervisor** | C&C BPO | 2020-2024 | Led 10-15 agents, delivered exceptional service |
+| 👥 **Tech Head & Team Supervisor** | C&C BPO Company | 2020-2024 | Led 10-15 agents, built scalable internal systems, optimized workflows with tech solutions |
 
 </div>
 
